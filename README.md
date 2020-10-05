@@ -2,8 +2,8 @@
 Getting and Cleaning Data Course Project
 The script is invented to analyze the data from UCI HAR Dataset. It's supposed that archive is extracted to the working directory.
 
-Dataset
-Human Activity Recognition Using Smartphones
+## Dataset
+[Human Activity Recognition Using Smartphones],(http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions)
 
 Files
 CodeBook.md a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
